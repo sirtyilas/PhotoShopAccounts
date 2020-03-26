@@ -24,4 +24,8 @@ public class PhotoShopAccountsApplication {
 	    alal
 	    ddf
       	fvfv*/
+	
+	public void mestho() {
+		
+	}
 }
