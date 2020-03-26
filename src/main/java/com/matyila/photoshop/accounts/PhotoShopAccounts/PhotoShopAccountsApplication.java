@@ -16,6 +16,8 @@ public class PhotoShopAccountsApplication {
 	 * */
 	public static void main(String[] args) {
 		SpringApplication.run(PhotoShopAccountsApplication.class, args);
+		
+		/*you dare copy*/
 	}
 
 	/*
