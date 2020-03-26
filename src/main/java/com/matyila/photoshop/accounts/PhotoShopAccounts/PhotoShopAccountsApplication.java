@@ -16,10 +16,7 @@ public class PhotoShopAccountsApplication {
 		/*you dare copy*/
 	}
 
-	/*
-	    alal
-	    ddf
-      	fvfv*/
+	
 	
 	public void mestho() {
 		
