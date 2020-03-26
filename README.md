@@ -1,7 +1,7 @@
 # Photo Shop Accounts Service
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How To Contribute
+## How To Contribute
