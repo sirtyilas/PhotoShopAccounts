@@ -7,7 +7,7 @@ It is used as part of the Photo Shop Application
 
 ## Purpose
 
-To keep the account information of all users of the users API
+To have fun the account information of all users of the users API
 
 ## Deployment
 
