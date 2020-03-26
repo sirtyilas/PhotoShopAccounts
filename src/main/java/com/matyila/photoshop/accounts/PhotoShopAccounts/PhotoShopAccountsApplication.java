@@ -9,6 +9,11 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableDiscoveryClient
 public class PhotoShopAccountsApplication {
 
+	/*I added 
+	 * 
+	 * I was adding the title in this branch im done now
+	 * 
+	 * */
 	public static void main(String[] args) {
 		SpringApplication.run(PhotoShopAccountsApplication.class, args);
 	}
