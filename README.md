@@ -13,12 +13,7 @@ test rebase
 xs
 To have fun the account information of all users of the users API
 stashed
-<<<<<<< Updated upstream
 
-
-
-=======
->>>>>>> Stashed changes
 
 ## Deployment
 
