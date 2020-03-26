@@ -12,8 +12,11 @@ To keep the account information of all users of the users API
 ## Deployment
 
 Run with java command and will deploy 
-It will be updated to work with docker on AWS and later on kubanetes
+It will be updated to work with docker on AWS and later on kubanetes.
+Its going to be rocking then.
 
 ## How To Contribute
 
 DONT!! :-)
+
+Ok at least tak to me then.
