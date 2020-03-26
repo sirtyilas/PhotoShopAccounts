@@ -21,3 +21,4 @@ DONT!! :-)
 
 Ok at least tak to me then.
 Copyrighters will be shot
+This bug change d=one by a cownoy
