@@ -7,7 +7,11 @@ It is used as part of the Photo Shop Application
 
 ## Purpose
 
+<<<<<<< HEAD
 To have fun the account information of all users of the users API
+=======
+To kill the account information of all users of the users API
+>>>>>>> simple-change
 
 ## Deployment
 
